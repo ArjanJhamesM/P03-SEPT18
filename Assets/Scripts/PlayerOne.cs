@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class PlayerOne : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public string Name = "JAH-REK";
+    public int Age = 77;
+    public string Race = "Black Chinese";
+    public int PhysicalDamage = 36;
+    public int Armor = 150;
+    public int MagicDamage = 70;
+    public int Speed = 60;
 }
