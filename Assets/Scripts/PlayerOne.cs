@@ -10,5 +10,6 @@ public class PlayerOne : MonoBehaviour
     public int PhysicalDamage = 36;
     public int Armor = 150;
     public int MagicDamage = 70;
+    public int MagicResistance = 69;
     public int Speed = 60;
 }
